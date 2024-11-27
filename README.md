@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-Backend-yellow?logo=python&style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-This repository contains a **Text Summarization Application** that leverages NLP techniques to summarize long pieces of text. The project includes a data ingestion pipeline and an organized logging system to track the data processing stages.
+This repository contains a **Text Summarization Application** that leverages NLP techniques to summarize long pieces of text. The project includes a data ingestion pipeline and an organized logging system to track the data processing stages. ***Forked from the Krish Naik repository***
 
 ---
 
